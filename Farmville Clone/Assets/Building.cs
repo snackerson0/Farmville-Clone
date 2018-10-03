@@ -1,14 +1,16 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEditor.Build;
 using UnityEngine;
 
+[Serializable]
 public class PriceTag
 {
     public float woodPrice, stonePrice, foodPrice;
     
 }
-
+[Serializable]
 public class BuildingInfo
 {
     public int id, level=0;

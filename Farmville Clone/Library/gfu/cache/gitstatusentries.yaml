@@ -1,0 +1,983 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1dd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 5
+  lastUpdatedAtString: 2018-10-02T20:37:19.361-04:00
+  initializedAtString: 2018-10-02T19:59:09.846-04:00
+  entries:
+  - path: Farmville Clone\.vs\Farmville Clone\DesignTimeBuild\.dtbcache
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\.vs\Farmville Clone\DesignTimeBuild\.dtbcache
+    projectPath: .vs\Farmville Clone\DesignTimeBuild\.dtbcache
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\.vs\Farmville Clone\v15\.suo
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\.vs\Farmville Clone\v15\.suo
+    projectPath: .vs\Farmville Clone\v15\.suo
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\.vs\Farmville Clone\v15\Server\sqlite3\storage.ide-shm
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\.vs\Farmville Clone\v15\Server\sqlite3\storage.ide-shm
+    projectPath: .vs\Farmville Clone\v15\Server\sqlite3\storage.ide-shm
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\.vs\Farmville Clone\v15\Server\sqlite3\storage.ide-wal
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\.vs\Farmville Clone\v15\Server\sqlite3\storage.ide-wal
+    projectPath: .vs\Farmville Clone\v15\Server\sqlite3\storage.ide-wal
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Assembly-CSharp.csproj
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Assembly-CSharp-Editor-firstpass.csproj
+    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\Assets\Build.cs
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Assets\Build.cs
+    projectPath: Assets\Build.cs
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\Assets\Build.cs.meta
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Assets\Build.cs.meta
+    projectPath: Assets\Build.cs.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\Assets\Building.cs
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Assets\Building.cs
+    projectPath: Assets\Building.cs
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\Assets\Building.cs.meta
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Assets\Building.cs.meta
+    projectPath: Assets\Building.cs.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\Assets\Buildings.cs.meta
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Assets\Buildings.cs.meta
+    projectPath: Assets\Buildings.cs.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\Assets\BuyButton.cs
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Assets\BuyButton.cs
+    projectPath: Assets\BuyButton.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Assets\BuyButton.cs.meta
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Assets\BuyButton.cs.meta
+    projectPath: Assets\BuyButton.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Assets\GridElement.cs
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Assets\GridElement.cs
+    projectPath: Assets\GridElement.cs
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\Assets\GridElement.cs.meta
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Assets\GridElement.cs.meta
+    projectPath: Assets\GridElement.cs.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\Assets\Prefabs.meta
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Assets\Prefabs.meta
+    projectPath: Assets\Prefabs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Assets\Prefabs\Building_Home_01.prefab
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Assets\Prefabs\Building_Home_01.prefab
+    projectPath: Assets\Prefabs\Building_Home_01.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Assets\Prefabs\Building_Home_01.prefab.meta
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Assets\Prefabs\Building_Home_01.prefab.meta
+    projectPath: Assets\Prefabs\Building_Home_01.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Assets\Prefabs\Building_Lumberjack_01.prefab
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Assets\Prefabs\Building_Lumberjack_01.prefab
+    projectPath: Assets\Prefabs\Building_Lumberjack_01.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Assets\Prefabs\Building_Lumberjack_01.prefab.meta
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Assets\Prefabs\Building_Lumberjack_01.prefab.meta
+    projectPath: Assets\Prefabs\Building_Lumberjack_01.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Assets\Prefabs\Building_Stonemason_01.prefab
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Assets\Prefabs\Building_Stonemason_01.prefab
+    projectPath: Assets\Prefabs\Building_Stonemason_01.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Assets\Prefabs\Building_Stonemason_01.prefab.meta
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Assets\Prefabs\Building_Stonemason_01.prefab.meta
+    projectPath: Assets\Prefabs\Building_Stonemason_01.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Assets\Prefabs\Building_Windmill_01.prefab
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Assets\Prefabs\Building_Windmill_01.prefab
+    projectPath: Assets\Prefabs\Building_Windmill_01.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Assets\Prefabs\Building_Windmill_01.prefab.meta
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Assets\Prefabs\Building_Windmill_01.prefab.meta
+    projectPath: Assets\Prefabs\Building_Windmill_01.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Assets\Resources.cs.meta
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Assets\Resources.cs.meta
+    projectPath: Assets\Resources.cs.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\Assets\Scenes\SampleScene.unity
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Assets\Scenes\SampleScene.unity
+    projectPath: Assets\Scenes\SampleScene.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\Assets\UnityVS.meta
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Assets\UnityVS.meta
+    projectPath: Assets\UnityVS.meta
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Farmville Clone\Library\assetDatabase3
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\Library\CurrentLayout.dwlt
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\CurrentLayout.dwlt
+    projectPath: Library\CurrentLayout.dwlt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\Library\EditorInstance.json
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\Library\LastSceneManagerSetup.txt
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\LastSceneManagerSetup.txt
+    projectPath: Library\LastSceneManagerSetup.txt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\Library\metadata\00\00000000000000002000000000000000
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\metadata\00\00000000000000002000000000000000
+    projectPath: Library\metadata\00\00000000000000002000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\Library\metadata\00\00000000000000003000000000000000
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\metadata\00\00000000000000003000000000000000
+    projectPath: Library\metadata\00\00000000000000003000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\Library\metadata\00\00000000000000004000000000000000
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\metadata\00\00000000000000004000000000000000
+    projectPath: Library\metadata\00\00000000000000004000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\Library\metadata\00\00000000000000004100000000000000
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\metadata\00\00000000000000004100000000000000
+    projectPath: Library\metadata\00\00000000000000004100000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\Library\metadata\00\00000000000000005000000000000000
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\metadata\00\00000000000000005000000000000000
+    projectPath: Library\metadata\00\00000000000000005000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\Library\metadata\00\00000000000000005100000000000000
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\metadata\00\00000000000000005100000000000000
+    projectPath: Library\metadata\00\00000000000000005100000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\Library\metadata\00\00000000000000006000000000000000
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\metadata\00\00000000000000006000000000000000
+    projectPath: Library\metadata\00\00000000000000006000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\Library\metadata\00\00000000000000006100000000000000
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\metadata\00\00000000000000006100000000000000
+    projectPath: Library\metadata\00\00000000000000006100000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\Library\metadata\00\00000000000000007000000000000000
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\metadata\00\00000000000000007000000000000000
+    projectPath: Library\metadata\00\00000000000000007000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\Library\metadata\00\00000000000000007100000000000000
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\metadata\00\00000000000000007100000000000000
+    projectPath: Library\metadata\00\00000000000000007100000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\Library\metadata\00\00000000000000008000000000000000
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\metadata\00\00000000000000008000000000000000
+    projectPath: Library\metadata\00\00000000000000008000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\Library\metadata\00\0000000000000000b000000000000000
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\metadata\00\0000000000000000b000000000000000
+    projectPath: Library\metadata\00\0000000000000000b000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\Library\metadata\00\0000000000000000b100000000000000
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\metadata\00\0000000000000000b100000000000000
+    projectPath: Library\metadata\00\0000000000000000b100000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\Library\metadata\00\0000000000000000c000000000000000
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\metadata\00\0000000000000000c000000000000000
+    projectPath: Library\metadata\00\0000000000000000c000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\Library\metadata\0d\0dc0aad0753860c48859472754736279
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\metadata\0d\0dc0aad0753860c48859472754736279
+    projectPath: Library\metadata\0d\0dc0aad0753860c48859472754736279
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\Library\metadata\0d\0dc0aad0753860c48859472754736279.info
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\metadata\0d\0dc0aad0753860c48859472754736279.info
+    projectPath: Library\metadata\0d\0dc0aad0753860c48859472754736279.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\Library\metadata\13\132a6b9f99d1c8542818793e6d2e3064
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\metadata\13\132a6b9f99d1c8542818793e6d2e3064
+    projectPath: Library\metadata\13\132a6b9f99d1c8542818793e6d2e3064
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\Library\metadata\18\182905d54a328984092d3b53229d5a19
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\metadata\18\182905d54a328984092d3b53229d5a19
+    projectPath: Library\metadata\18\182905d54a328984092d3b53229d5a19
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\Library\metadata\18\182905d54a328984092d3b53229d5a19.info
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\metadata\18\182905d54a328984092d3b53229d5a19.info
+    projectPath: Library\metadata\18\182905d54a328984092d3b53229d5a19.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\Library\metadata\1b\1b726c3f6c875fe49b081b1702145958
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\metadata\1b\1b726c3f6c875fe49b081b1702145958
+    projectPath: Library\metadata\1b\1b726c3f6c875fe49b081b1702145958
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\Library\metadata\23\23bda32d9865c674aace7a2c9d6bdbbb
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\metadata\23\23bda32d9865c674aace7a2c9d6bdbbb
+    projectPath: Library\metadata\23\23bda32d9865c674aace7a2c9d6bdbbb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\Library\metadata\23\23bda32d9865c674aace7a2c9d6bdbbb.info
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\metadata\23\23bda32d9865c674aace7a2c9d6bdbbb.info
+    projectPath: Library\metadata\23\23bda32d9865c674aace7a2c9d6bdbbb.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\Library\metadata\2f\2fe5e800a79ea8941919abadea0b700d
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\metadata\2f\2fe5e800a79ea8941919abadea0b700d
+    projectPath: Library\metadata\2f\2fe5e800a79ea8941919abadea0b700d
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\Library\metadata\3f\3f2347930e9f64444a432c427ae412f1
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\metadata\3f\3f2347930e9f64444a432c427ae412f1
+    projectPath: Library\metadata\3f\3f2347930e9f64444a432c427ae412f1
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\Library\metadata\3f\3f2347930e9f64444a432c427ae412f1.info
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\metadata\3f\3f2347930e9f64444a432c427ae412f1.info
+    projectPath: Library\metadata\3f\3f2347930e9f64444a432c427ae412f1.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\Library\metadata\40\4016995e79eda8740ab5c963c52b7f84
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\metadata\40\4016995e79eda8740ab5c963c52b7f84
+    projectPath: Library\metadata\40\4016995e79eda8740ab5c963c52b7f84
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Library\metadata\40\4016995e79eda8740ab5c963c52b7f84.info
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\metadata\40\4016995e79eda8740ab5c963c52b7f84.info
+    projectPath: Library\metadata\40\4016995e79eda8740ab5c963c52b7f84.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Library\metadata\40\4078d743eecc21c4aa4af323a2f2fb27
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\metadata\40\4078d743eecc21c4aa4af323a2f2fb27
+    projectPath: Library\metadata\40\4078d743eecc21c4aa4af323a2f2fb27
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\Library\metadata\40\4078d743eecc21c4aa4af323a2f2fb27.info
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\metadata\40\4078d743eecc21c4aa4af323a2f2fb27.info
+    projectPath: Library\metadata\40\4078d743eecc21c4aa4af323a2f2fb27.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\Library\metadata\47\474f4bb574cbc1b47a85b254299d2bc5
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\metadata\47\474f4bb574cbc1b47a85b254299d2bc5
+    projectPath: Library\metadata\47\474f4bb574cbc1b47a85b254299d2bc5
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\Library\metadata\47\474f4bb574cbc1b47a85b254299d2bc5.info
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\metadata\47\474f4bb574cbc1b47a85b254299d2bc5.info
+    projectPath: Library\metadata\47\474f4bb574cbc1b47a85b254299d2bc5.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\Library\metadata\4f\4f704ae4b4f98ae41a0bce26658850c1
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\metadata\4f\4f704ae4b4f98ae41a0bce26658850c1
+    projectPath: Library\metadata\4f\4f704ae4b4f98ae41a0bce26658850c1
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\Library\metadata\53\531063dee2525f74eaf34d91fb34a68d
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\metadata\53\531063dee2525f74eaf34d91fb34a68d
+    projectPath: Library\metadata\53\531063dee2525f74eaf34d91fb34a68d
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Library\metadata\53\531063dee2525f74eaf34d91fb34a68d.info
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\metadata\53\531063dee2525f74eaf34d91fb34a68d.info
+    projectPath: Library\metadata\53\531063dee2525f74eaf34d91fb34a68d.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Library\metadata\54\54714d1eaf0eccb48904cc5293349eb5
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\metadata\54\54714d1eaf0eccb48904cc5293349eb5
+    projectPath: Library\metadata\54\54714d1eaf0eccb48904cc5293349eb5
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\Library\metadata\54\54714d1eaf0eccb48904cc5293349eb5.info
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\metadata\54\54714d1eaf0eccb48904cc5293349eb5.info
+    projectPath: Library\metadata\54\54714d1eaf0eccb48904cc5293349eb5.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\Library\metadata\64\64c53eebd3f96a644aac510872ba936d
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\metadata\64\64c53eebd3f96a644aac510872ba936d
+    projectPath: Library\metadata\64\64c53eebd3f96a644aac510872ba936d
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Library\metadata\64\64c53eebd3f96a644aac510872ba936d.info
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\metadata\64\64c53eebd3f96a644aac510872ba936d.info
+    projectPath: Library\metadata\64\64c53eebd3f96a644aac510872ba936d.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Library\metadata\84\845e76e543a45974785256741b754532
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\metadata\84\845e76e543a45974785256741b754532
+    projectPath: Library\metadata\84\845e76e543a45974785256741b754532
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Farmville Clone\Library\metadata\84\845e76e543a45974785256741b754532.info
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\metadata\84\845e76e543a45974785256741b754532.info
+    projectPath: Library\metadata\84\845e76e543a45974785256741b754532.info
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Farmville Clone\Library\metadata\85\85518c1a24c0ee94b8b7c80fc15d29fe.info
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\metadata\85\85518c1a24c0ee94b8b7c80fc15d29fe.info
+    projectPath: Library\metadata\85\85518c1a24c0ee94b8b7c80fc15d29fe.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\Library\metadata\94\94f916e44868a5242909be26cabe2957
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\metadata\94\94f916e44868a5242909be26cabe2957
+    projectPath: Library\metadata\94\94f916e44868a5242909be26cabe2957
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\Library\metadata\94\94f916e44868a5242909be26cabe2957.info
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\metadata\94\94f916e44868a5242909be26cabe2957.info
+    projectPath: Library\metadata\94\94f916e44868a5242909be26cabe2957.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\Library\metadata\b2\b20163d7430b19847b513ec0edbfdd8d
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\metadata\b2\b20163d7430b19847b513ec0edbfdd8d
+    projectPath: Library\metadata\b2\b20163d7430b19847b513ec0edbfdd8d
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\Library\metadata\bc\bc9d7a0d56d1af0488d1e8fbba098255
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\metadata\bc\bc9d7a0d56d1af0488d1e8fbba098255
+    projectPath: Library\metadata\bc\bc9d7a0d56d1af0488d1e8fbba098255
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Library\metadata\bc\bc9d7a0d56d1af0488d1e8fbba098255.info
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\metadata\bc\bc9d7a0d56d1af0488d1e8fbba098255.info
+    projectPath: Library\metadata\bc\bc9d7a0d56d1af0488d1e8fbba098255.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Library\metadata\c4\c45f8142d69fa66459d1cc7f56a75401
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\metadata\c4\c45f8142d69fa66459d1cc7f56a75401
+    projectPath: Library\metadata\c4\c45f8142d69fa66459d1cc7f56a75401
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Library\metadata\c4\c45f8142d69fa66459d1cc7f56a75401.info
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\metadata\c4\c45f8142d69fa66459d1cc7f56a75401.info
+    projectPath: Library\metadata\c4\c45f8142d69fa66459d1cc7f56a75401.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Library\metadata\d2\d29bc8f46fd7ccd4ca2f474b41c20fba
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\metadata\d2\d29bc8f46fd7ccd4ca2f474b41c20fba
+    projectPath: Library\metadata\d2\d29bc8f46fd7ccd4ca2f474b41c20fba
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\Library\metadata\d8\d8d96f3d1b1b77b49aa60744f44fe9c8
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\metadata\d8\d8d96f3d1b1b77b49aa60744f44fe9c8
+    projectPath: Library\metadata\d8\d8d96f3d1b1b77b49aa60744f44fe9c8
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\Library\metadata\d8\d8d96f3d1b1b77b49aa60744f44fe9c8.info
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\metadata\d8\d8d96f3d1b1b77b49aa60744f44fe9c8.info
+    projectPath: Library\metadata\d8\d8d96f3d1b1b77b49aa60744f44fe9c8.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\Library\metadata\ec\ec90e87c5b77b8c44afa65248af7c342
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\metadata\ec\ec90e87c5b77b8c44afa65248af7c342
+    projectPath: Library\metadata\ec\ec90e87c5b77b8c44afa65248af7c342
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Library\metadata\ec\ec90e87c5b77b8c44afa65248af7c342.info
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\metadata\ec\ec90e87c5b77b8c44afa65248af7c342.info
+    projectPath: Library\metadata\ec\ec90e87c5b77b8c44afa65248af7c342.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Library\metadata\ed\ed55dbfc5e89b0445abe47f6fa0bb948
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\metadata\ed\ed55dbfc5e89b0445abe47f6fa0bb948
+    projectPath: Library\metadata\ed\ed55dbfc5e89b0445abe47f6fa0bb948
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\Library\metadata\ed\ed55dbfc5e89b0445abe47f6fa0bb948.info
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\metadata\ed\ed55dbfc5e89b0445abe47f6fa0bb948.info
+    projectPath: Library\metadata\ed\ed55dbfc5e89b0445abe47f6fa0bb948.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\Library\metadata\fa\fa5c24b6018fe864aa5747fbbd48598e
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\metadata\fa\fa5c24b6018fe864aa5747fbbd48598e
+    projectPath: Library\metadata\fa\fa5c24b6018fe864aa5747fbbd48598e
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\Library\metadata\fa\fa5c24b6018fe864aa5747fbbd48598e.info
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\metadata\fa\fa5c24b6018fe864aa5747fbbd48598e.info
+    projectPath: Library\metadata\fa\fa5c24b6018fe864aa5747fbbd48598e.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll.mdb
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll.mdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+    projectPath: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\ProjectSettings\QualitySettings.asset
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\ProjectSettings\QualitySettings.asset
+    projectPath: ProjectSettings\QualitySettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Farmville Clone\Temp\__Backupscenes\0.backup
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Temp\ProcessJobs\e4d7cdea9e7b674007a994e68f178ef6.bakert
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Temp\ProcessJobs\e4d7cdea9e7b674007a994e68f178ef6.bakert
+    projectPath: Temp\ProcessJobs\e4d7cdea9e7b674007a994e68f178ef6.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Temp\UnityLockfile
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Temp\UnityTempFile-06a63f6a99109ed439a8721963e84ea2
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Temp\UnityTempFile-06a63f6a99109ed439a8721963e84ea2
+    projectPath: Temp\UnityTempFile-06a63f6a99109ed439a8721963e84ea2
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Temp\UnityTempFile-1f18bfd1474293b45bd80826d08987f3
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Temp\UnityTempFile-1f18bfd1474293b45bd80826d08987f3
+    projectPath: Temp\UnityTempFile-1f18bfd1474293b45bd80826d08987f3
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Temp\UnityTempFile-25cfafcd48d74954887954ef68289cce
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Temp\UnityTempFile-25cfafcd48d74954887954ef68289cce
+    projectPath: Temp\UnityTempFile-25cfafcd48d74954887954ef68289cce
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Temp\UnityTempFile-26e5980b1a9340e42b0f50a2164b550a
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Temp\UnityTempFile-26e5980b1a9340e42b0f50a2164b550a
+    projectPath: Temp\UnityTempFile-26e5980b1a9340e42b0f50a2164b550a
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Temp\UnityTempFile-27fcb36acc0b3c943a2c3ae846b4409a
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Temp\UnityTempFile-27fcb36acc0b3c943a2c3ae846b4409a
+    projectPath: Temp\UnityTempFile-27fcb36acc0b3c943a2c3ae846b4409a
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Temp\UnityTempFile-456dd4bafe70c6c4db6818981755fd11
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Temp\UnityTempFile-456dd4bafe70c6c4db6818981755fd11
+    projectPath: Temp\UnityTempFile-456dd4bafe70c6c4db6818981755fd11
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Temp\UnityTempFile-46c75499b6ba4a34baed5676e6dd4b92
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Temp\UnityTempFile-46c75499b6ba4a34baed5676e6dd4b92
+    projectPath: Temp\UnityTempFile-46c75499b6ba4a34baed5676e6dd4b92
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Temp\UnityTempFile-5cb59d7e1e4f820449e72002548b141e
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Temp\UnityTempFile-5cb59d7e1e4f820449e72002548b141e
+    projectPath: Temp\UnityTempFile-5cb59d7e1e4f820449e72002548b141e
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Temp\UnityTempFile-600c69807faa20e4987e193cec450125
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Temp\UnityTempFile-600c69807faa20e4987e193cec450125
+    projectPath: Temp\UnityTempFile-600c69807faa20e4987e193cec450125
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Temp\UnityTempFile-60679ad125ac30f47944dcd1bb41fc91
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Temp\UnityTempFile-60679ad125ac30f47944dcd1bb41fc91
+    projectPath: Temp\UnityTempFile-60679ad125ac30f47944dcd1bb41fc91
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Temp\UnityTempFile-6c8d8637f09953346b973d9a040383a4
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Temp\UnityTempFile-6c8d8637f09953346b973d9a040383a4
+    projectPath: Temp\UnityTempFile-6c8d8637f09953346b973d9a040383a4
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Temp\UnityTempFile-6f7170a5176cfe949ae718dd1ec46db4
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Temp\UnityTempFile-6f7170a5176cfe949ae718dd1ec46db4
+    projectPath: Temp\UnityTempFile-6f7170a5176cfe949ae718dd1ec46db4
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Temp\UnityTempFile-7d0cd369278f3ee41bfcffecee4516ec
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Temp\UnityTempFile-7d0cd369278f3ee41bfcffecee4516ec
+    projectPath: Temp\UnityTempFile-7d0cd369278f3ee41bfcffecee4516ec
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Temp\UnityTempFile-84e7336497f1abd418be0a609086ce27
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Temp\UnityTempFile-84e7336497f1abd418be0a609086ce27
+    projectPath: Temp\UnityTempFile-84e7336497f1abd418be0a609086ce27
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Temp\UnityTempFile-877acc89331959d4da527cc2e7947434
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Temp\UnityTempFile-877acc89331959d4da527cc2e7947434
+    projectPath: Temp\UnityTempFile-877acc89331959d4da527cc2e7947434
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Temp\UnityTempFile-8bf2ca7f16312c34e8adcd840e055e61
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Temp\UnityTempFile-8bf2ca7f16312c34e8adcd840e055e61
+    projectPath: Temp\UnityTempFile-8bf2ca7f16312c34e8adcd840e055e61
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Temp\UnityTempFile-a9f74dcac3f05f44580bcfd5012e3b75
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Temp\UnityTempFile-a9f74dcac3f05f44580bcfd5012e3b75
+    projectPath: Temp\UnityTempFile-a9f74dcac3f05f44580bcfd5012e3b75
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Temp\UnityTempFile-abbe618e0c64a85498e72ec9c09b0a26
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Temp\UnityTempFile-abbe618e0c64a85498e72ec9c09b0a26
+    projectPath: Temp\UnityTempFile-abbe618e0c64a85498e72ec9c09b0a26
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Temp\UnityTempFile-ac7b6bceec1d9fe448b81603f823b5f7
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Temp\UnityTempFile-ac7b6bceec1d9fe448b81603f823b5f7
+    projectPath: Temp\UnityTempFile-ac7b6bceec1d9fe448b81603f823b5f7
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Temp\UnityTempFile-ad478171aaa0b27438c3a195b5591800
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Temp\UnityTempFile-ad478171aaa0b27438c3a195b5591800
+    projectPath: Temp\UnityTempFile-ad478171aaa0b27438c3a195b5591800
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Temp\UnityTempFile-ae2621549bd484f45926a34f59142c24
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Temp\UnityTempFile-ae2621549bd484f45926a34f59142c24
+    projectPath: Temp\UnityTempFile-ae2621549bd484f45926a34f59142c24
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Temp\UnityTempFile-afa877bd99af7bb4a80e60f5d2536825
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Temp\UnityTempFile-afa877bd99af7bb4a80e60f5d2536825
+    projectPath: Temp\UnityTempFile-afa877bd99af7bb4a80e60f5d2536825
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Temp\UnityTempFile-c31d0aae1c5685345997a021deea8274
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Temp\UnityTempFile-c31d0aae1c5685345997a021deea8274
+    projectPath: Temp\UnityTempFile-c31d0aae1c5685345997a021deea8274
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Temp\UnityTempFile-c69f880e3d4a521408496f9193a79e4d
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Temp\UnityTempFile-c69f880e3d4a521408496f9193a79e4d
+    projectPath: Temp\UnityTempFile-c69f880e3d4a521408496f9193a79e4d
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Temp\UnityTempFile-c6d7a901e391a0949ab0a7f283f84272
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Temp\UnityTempFile-c6d7a901e391a0949ab0a7f283f84272
+    projectPath: Temp\UnityTempFile-c6d7a901e391a0949ab0a7f283f84272
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Temp\UnityTempFile-cf6d6dca41e20b9409c75696b019da7a
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Temp\UnityTempFile-cf6d6dca41e20b9409c75696b019da7a
+    projectPath: Temp\UnityTempFile-cf6d6dca41e20b9409c75696b019da7a
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Temp\UnityTempFile-d748bdd378c2d8b47a4b05a1020773c5
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Temp\UnityTempFile-d748bdd378c2d8b47a4b05a1020773c5
+    projectPath: Temp\UnityTempFile-d748bdd378c2d8b47a4b05a1020773c5
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Temp\UnityTempFile-e92b21650363ebc4a8497c72e1a6a96d
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Temp\UnityTempFile-e92b21650363ebc4a8497c72e1a6a96d
+    projectPath: Temp\UnityTempFile-e92b21650363ebc4a8497c72e1a6a96d
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Temp\UnityTempFile-ebb7372564b27a0419d5beef54699084
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Temp\UnityTempFile-ebb7372564b27a0419d5beef54699084
+    projectPath: Temp\UnityTempFile-ebb7372564b27a0419d5beef54699084
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Temp\UnityTempFile-eceb47d1c80258a47a5fb74069110e1d
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Temp\UnityTempFile-eceb47d1c80258a47a5fb74069110e1d
+    projectPath: Temp\UnityTempFile-eceb47d1c80258a47a5fb74069110e1d
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Temp\UnityTempFile-f8c69411630498c43860c0fbbcbadcbe
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Temp\UnityTempFile-f8c69411630498c43860c0fbbcbadcbe
+    projectPath: Temp\UnityTempFile-f8c69411630498c43860c0fbbcbadcbe
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Temp\UnityTempFile-faff4faa849888843a559492c578678a
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Temp\UnityTempFile-faff4faa849888843a559492c578678a
+    projectPath: Temp\UnityTempFile-faff4faa849888843a559492c578678a
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Farmville Clone\Temp\UnityTempFile-fb66ebb6c07c84644adc6c2a87442061
+    fullPath: C:\Users\Snackablez\Documents\Unity Projects\FarmvilleClone\Farmville
+      Clone\Farmville Clone\Temp\UnityTempFile-fb66ebb6c07c84644adc6c2a87442061
+    projectPath: Temp\UnityTempFile-fb66ebb6c07c84644adc6c2a87442061
+    originalPath: 
+    status: 1
+    staged: 0
